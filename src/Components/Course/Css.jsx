@@ -15,7 +15,7 @@ export default function Css() {
                     </div>
                     <div className="row g-2 justify-content-center">
 
-                        <Coursecart link="http://localhost:5173/Learn CSS.mp4" title="Full CSS Tutorial" desc="Full css video tutorial in one video" />
+                        <Coursecart link="https://e-learning-hub-personalized-online-20rl.onrender.com/Learn CSS.mp4" title="Full CSS Tutorial" desc="Full css video tutorial in one video" />
 
                     </div>
                 </div>
