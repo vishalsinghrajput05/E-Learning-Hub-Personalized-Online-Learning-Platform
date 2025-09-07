@@ -17,7 +17,7 @@ export default function Advjava() {
           </div>
           <div className="row g-2 justify-content-center">
             <Coursecart
-              link="http://localhost:5173/Advanced Java Full Course 2023.mp4"
+              link="https://e-learning-hub-personalized-online-20rl.onrender.com/Advanced Java Full Course 2023.mp4"
               title="Advanced Java Full Course"
               desc="Leran Advance Java Tutorial J2EE, JSP, JDBC, Java API, SpringBoot etc."
             />
