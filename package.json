@@ -1,16 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "elearning-website-master",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
-=======
   "name": "elearning",
   "private": true,
   "version": "0.0.0",
@@ -51,5 +39,4 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.1.4"
   }
->>>>>>> 7a479cca5a6e7ef8fb86e0d40d040ea5948d9b1a
 }
